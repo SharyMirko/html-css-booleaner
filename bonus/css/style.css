@@ -1,0 +1,116 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+header {
+    background-color: rgb(0, 153, 255);
+    background-image: url(../img/pattern.png);
+    text-align: left;
+}
+
+span {
+    background-color: yellow;
+}
+
+header img {
+    width: 10%;
+    margin-top: 3%;
+    padding-left: 20%;
+}
+
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
+main {
+    text-align: justify;
+    width: 50%;
+    padding-left: 20%;
+}
+
+.titolo {
+    padding-bottom: 2%;
+    font-size: 16px;
+}
+
+.titolo h1 {
+    margin-bottom: 0%;
+}
+
+.img-titolo img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 0%;
+}
+
+.img-titolo p {
+    font-size: 6px;
+    margin-top: 0%;
+}
+
+.autore {
+    padding-top: 0%;
+    font-size: 12px;
+}
+
+.time {
+    padding-top: 0%;
+    font-size: 8px;
+}
+
+.contenitore ul {
+    padding-left: 1%;
+}
+
+table {
+    text-align: left;
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: rgb(29, 131, 214);
+    color: white;
+}
+
+thead td {
+    width: 33%;
+    height: 10px;
+}
+
+.colore {
+   
+    background-color: rgb(0, 66, 121);
+
+}
+
+.trasparente {
+    background-color: none;
+}
+
+.correlati div {
+    margin-bottom: 2%;
+}
+
+.correlato1 {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: auto;
+    color: white;
+    font-size: 12px;
+}
+
+.correlato2 {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: auto;
+    color: white;
+    font-size: 12px;
+
+}
