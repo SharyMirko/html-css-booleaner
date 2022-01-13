@@ -72,6 +72,7 @@ table {
 
 thead {
     background-color: rgb(29, 131, 214);
+    color: white;
 }
 
 thead td {
@@ -87,4 +88,27 @@ thead td {
 
 .trasparente {
     background-color: none;
+}
+
+.correlati div {
+    margin-bottom: 2%;
+}
+
+.correlato1 {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/monitor.jpg);
+    background-size: auto;
+    color: white;
+    font-size: 12px;
+}
+
+.correlato2 {
+    width: 200px;
+    height: 200px;
+    background-image: url(../img/graph.jpg);
+    background-size: auto;
+    color: white;
+    font-size: 12px;
+
 }
